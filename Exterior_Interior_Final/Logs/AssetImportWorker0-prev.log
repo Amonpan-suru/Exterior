@@ -15,11 +15,11 @@ F:/Git/Exterior/Exterior_Interior_Final
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-60402
+56156
 Successfully changed project path to: F:/Git/Exterior/Exterior_Interior_Final
 F:/Git/Exterior/Exterior_Interior_Final
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 74.60 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 75.99 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.24f1 (79c78de19888)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.24f1/Editor/Data/Resources/UnitySubsystems
@@ -35,141 +35,141 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.24f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.24f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.24f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56096
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56804
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.24f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001624 seconds.
+Registered in 0.001648 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 78.79 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 75.02 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.571 seconds
+- Completed reload, in  0.597 seconds
 Domain Reload Profiling:
-	ReloadAssembly (572ms)
+	ReloadAssembly (597ms)
 		BeginReloadAssembly (48ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (458ms)
+		EndReloadAssembly (477ms)
 			LoadAssemblies (46ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (138ms)
+			SetupTypeCache (148ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (30ms)
-			SetupLoadedEditorAssemblies (197ms)
+			RebuildScriptCaches (28ms)
+			SetupLoadedEditorAssemblies (206ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (79ms)
-				BeforeProcessingInitializeOnLoad (15ms)
-				ProcessInitializeOnLoadAttributes (74ms)
-				ProcessInitializeOnLoadMethodAttributes (25ms)
+				RefreshPlugins (75ms)
+				BeforeProcessingInitializeOnLoad (20ms)
+				ProcessInitializeOnLoadAttributes (77ms)
+				ProcessInitializeOnLoadMethodAttributes (29ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002987 seconds.
+Registered in 0.005172 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file data-00000217F24ED020 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.VisualEffectGraph.Editor.dll
+Symbol file data-000002237B843010 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.VisualEffectGraph.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000217F36E5030 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file data-000002237BCC2840 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000217EDEE5010 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file data-000002237722E030 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000217ED874030 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file data-00000223774D15D0 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000217F36BB030 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.VisualEffectGraph.Runtime.dll
+Symbol file data-000002237CCF7020 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.VisualEffectGraph.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000217F32809D0 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file data-000002237CED2230 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000217ED4EDE20 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file data-000002237BD16650 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.Timeline.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000217F34C5020 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file data-000002237BB42020 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.TextMeshPro.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000217EDD7F020 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.RenderPipelines.HighDefinition.Runtime.dll
+Symbol file data-000002237C381010 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.RenderPipelines.HighDefinition.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000217F36E5030 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.Searcher.Editor.dll
+Symbol file data-000002237CCF7020 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.Searcher.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000217ED4EDE20 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file data-000002237BB70230 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000217ED6AC1B0 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.ShaderGraph.Utilities.dll
+Symbol file data-00000223773334E0 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.ShaderGraph.Utilities.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000217F1E70080 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll
+Symbol file data-000002237BE5A430 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000217ED5FB8F0 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.RenderPipelines.HighDefinition.Editor.dll
+Symbol file data-000002237747B4A0 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.RenderPipelines.HighDefinition.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000217F2C63C20 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file data-00000223774D15D0 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\UnityEditor.UI.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000217F2305020 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file data-000002237BD3D020 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000217F302B010 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file data-000002237725E010 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.Rider.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000217F2134E30 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll
+Symbol file data-00000223774D0E10 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000217F1E966A0 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file data-000002237BE8F020 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\UnityEngine.UI.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000217EDD7F020 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll
+Symbol file data-000002237C381010 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000217F302B010 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+Symbol file data-000002237725E010 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000217F2134E30 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+Symbol file data-00000223774D0FF0 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000217F22B1020 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file data-000002237BE8F020 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000217F22D9630 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file data-000002237BE8F020 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000217ED5113B0 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.RenderPipelines.HighDefinition.Config.Runtime.dll
+Symbol file data-000002237774A9D0 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.RenderPipelines.HighDefinition.Config.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000217F22D9630 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.dll
+Symbol file data-000002237BE8F020 doesn't match image F:\Git\Exterior\Exterior_Interior_Final\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 78.78 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 80.65 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.315 seconds
+- Completed reload, in  1.431 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1316ms)
-		BeginReloadAssembly (129ms)
+	ReloadAssembly (1432ms)
+		BeginReloadAssembly (151ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (16ms)
-		EndReloadAssembly (1128ms)
-			LoadAssemblies (82ms)
+			CreateAndSetChildDomain (21ms)
+		EndReloadAssembly (1215ms)
+			LoadAssemblies (92ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (333ms)
+			SetupTypeCache (356ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (72ms)
-			SetupLoadedEditorAssemblies (528ms)
+			RebuildScriptCaches (75ms)
+			SetupLoadedEditorAssemblies (571ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (3ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (79ms)
-				BeforeProcessingInitializeOnLoad (94ms)
-				ProcessInitializeOnLoadAttributes (226ms)
-				ProcessInitializeOnLoadMethodAttributes (121ms)
-				AfterProcessingInitializeOnLoad (5ms)
+				RefreshPlugins (81ms)
+				BeforeProcessingInitializeOnLoad (95ms)
+				ProcessInitializeOnLoadAttributes (254ms)
+				ProcessInitializeOnLoadMethodAttributes (132ms)
+				AfterProcessingInitializeOnLoad (6ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (6ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.75 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3728 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 177.0 MB.
-System memory in use after: 177.2 MB.
+Unloading 3729 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 178.1 MB.
+System memory in use after: 178.4 MB.
 
-Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 4178.
-Total: 3.520500 ms (FindLiveObjects: 0.366600 ms CreateObjectMapping: 0.172400 ms MarkObjects: 2.919200 ms  DeleteObjects: 0.061300 ms)
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 4179.
+Total: 3.463100 ms (FindLiveObjects: 0.431100 ms CreateObjectMapping: 0.192900 ms MarkObjects: 2.778000 ms  DeleteObjects: 0.059900 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -183,33 +183,25 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Palace_Ladder.fbx
-  artifactKey: Guid(c6f6c5ec6b4b26940babf649fff3a6dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Palace_Ladder.fbx using Guid(c6f6c5ec6b4b26940babf649fff3a6dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74f4949892334050659b8f741bcee1ef') in 0.644200 seconds 
-  Import took 0.651311 seconds .
+  path: Assets/Scenes/SaveScenes.unity
+  artifactKey: Guid(fe76fbf5cbcd48944abc27e0e96ed9ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SaveScenes.unity using Guid(fe76fbf5cbcd48944abc27e0e96ed9ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b15c189f8faca783a65514cd39c4e93c') in 0.018069 seconds 
+  Import took 0.024140 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000191 seconds.
-  path: Assets/Final_Scenery.fbx
-  artifactKey: Guid(0ff8f40aaed42014c9bfe408ce67f278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Final_Scenery.fbx using Guid(0ff8f40aaed42014c9bfe408ce67f278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd24aa81c0b9529ce26380594f4f85724') in 1.102272 seconds 
-  Import took 1.114364 seconds .
+  Time since last request: 2.234750 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc5d424e068b83488db9e9be78ddd42b') in 0.003817 seconds 
+  Import took 0.012806 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 641.642300 seconds.
-  path: Assets/GrassSway.shadergraph
-  artifactKey: Guid(e139a1108a893344b995babcc0a23c9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GrassSway.shadergraph using Guid(e139a1108a893344b995babcc0a23c9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d643672d9a5b3d95388e31f1804a607') in 0.011645 seconds 
-  Import took 0.019985 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 140.706877 seconds.
-  path: Assets/GrassSway1.shadergraph
-  artifactKey: Guid(5b404c41cc191cd46860485ac98c72d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/GrassSway1.shadergraph using Guid(5b404c41cc191cd46860485ac98c72d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43f4aed72e1bf675a1f81ceec2f07b2a') in 0.009171 seconds 
-  Import took 0.015730 seconds .
+  Time since last request: 10.833154 seconds.
+  path: Assets/AllSkyFree
+  artifactKey: Guid(c45cab7d29023b14b8f7ea64a0c2d020) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllSkyFree using Guid(c45cab7d29023b14b8f7ea64a0c2d020) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cff1436c483c334daeea44a175bffdae') in 0.005881 seconds 
+  Import took 0.011569 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
